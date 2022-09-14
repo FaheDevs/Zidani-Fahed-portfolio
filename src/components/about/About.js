@@ -16,11 +16,13 @@ export default function About() {
                 className={Style.green}>(main)</span> $ </span>
                 {info.bio}
             </p>
+            <a href='https://github.com/FaheDevs/CV-ZIDANI-FAHED'>Find my CV here </a>
         </>;
     }
 
     function skillsText() {
         return <>
+        <br></br>
             <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cd skills/tools
             </p>
             <p><span style={{color: info.baseColor}}>skills/tools <span
@@ -29,10 +31,14 @@ export default function About() {
             <ul className={Style.skills}>
                 {info.skills.proficientWith.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
             </ul>
-            <p style={{color: info.baseColor}}> Exposed To</p>
+            <p style={{color: info.baseColor}}> Exposed To and Made Projects with : </p>
             <ul className={Style.skills}>
                 {info.skills.exposedTo.map((skill, index) => <li key={index}>{skill}</li>)}
             </ul>
+            <p style={{color: info.baseColor}}> Code Editors that i am Proficient with : </p>
+            <p>Working with Intellij IDEA and VScode</p>
+
+
         </>;
     }
 
