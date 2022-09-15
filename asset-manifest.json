@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Zidani-Fahed-portfolio/static/css/main.f31807f5.css",
-    "main.js": "/Zidani-Fahed-portfolio/static/js/main.4b08d5f4.js",
-    "static/media/mock4.png": "/Zidani-Fahed-portfolio/static/media/mock4.1714fbc6818bb21c8179.png",
-    "static/media/mock7.png": "/Zidani-Fahed-portfolio/static/media/mock7.6efccbe0b74b39ca6ee4.png",
-    "static/media/mock2.png": "/Zidani-Fahed-portfolio/static/media/mock2.e8d5b3d8096f8ee04145.png",
-    "static/media/mock1.png": "/Zidani-Fahed-portfolio/static/media/mock1.145b809829eedf55b5ee.png",
-    "static/media/self.png": "/Zidani-Fahed-portfolio/static/media/self.94f81d410253d970f30d.png",
-    "static/media/mock5.png": "/Zidani-Fahed-portfolio/static/media/mock5.abe791a610864d39821b.png",
-    "static/media/mock6.jpg": "/Zidani-Fahed-portfolio/static/media/mock6.61a5d98bc862cb9ff544.jpg",
-    "static/media/mock3.png": "/Zidani-Fahed-portfolio/static/media/mock3.ecc51d8672f675b16e35.png",
-    "index.html": "/Zidani-Fahed-portfolio/index.html",
-    "main.f31807f5.css.map": "/Zidani-Fahed-portfolio/static/css/main.f31807f5.css.map",
-    "main.4b08d5f4.js.map": "/Zidani-Fahed-portfolio/static/js/main.4b08d5f4.js.map"
+    "main.css": "/Zidani-Fahed-portfolio/home/static/css/main.f31807f5.css",
+    "main.js": "/Zidani-Fahed-portfolio/home/static/js/main.b6a487f7.js",
+    "static/media/mock4.png": "/Zidani-Fahed-portfolio/home/static/media/mock4.1714fbc6818bb21c8179.png",
+    "static/media/mock7.png": "/Zidani-Fahed-portfolio/home/static/media/mock7.6efccbe0b74b39ca6ee4.png",
+    "static/media/mock2.png": "/Zidani-Fahed-portfolio/home/static/media/mock2.e8d5b3d8096f8ee04145.png",
+    "static/media/mock1.png": "/Zidani-Fahed-portfolio/home/static/media/mock1.145b809829eedf55b5ee.png",
+    "static/media/self.png": "/Zidani-Fahed-portfolio/home/static/media/self.94f81d410253d970f30d.png",
+    "static/media/mock5.png": "/Zidani-Fahed-portfolio/home/static/media/mock5.abe791a610864d39821b.png",
+    "static/media/mock6.jpg": "/Zidani-Fahed-portfolio/home/static/media/mock6.61a5d98bc862cb9ff544.jpg",
+    "static/media/mock3.png": "/Zidani-Fahed-portfolio/home/static/media/mock3.ecc51d8672f675b16e35.png",
+    "index.html": "/Zidani-Fahed-portfolio/home/index.html",
+    "main.f31807f5.css.map": "/Zidani-Fahed-portfolio/home/static/css/main.f31807f5.css.map",
+    "main.b6a487f7.js.map": "/Zidani-Fahed-portfolio/home/static/js/main.b6a487f7.js.map"
   },
   "entrypoints": [
     "static/css/main.f31807f5.css",
-    "static/js/main.4b08d5f4.js"
+    "static/js/main.b6a487f7.js"
   ]
 }
