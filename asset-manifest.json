@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zidani-Fahed-portfolio/home/static/css/main.f31807f5.css",
-    "main.js": "/Zidani-Fahed-portfolio/home/static/js/main.b6a487f7.js",
+    "main.js": "/Zidani-Fahed-portfolio/home/static/js/main.f60c1631.js",
     "static/media/mock4.png": "/Zidani-Fahed-portfolio/home/static/media/mock4.1714fbc6818bb21c8179.png",
     "static/media/mock7.png": "/Zidani-Fahed-portfolio/home/static/media/mock7.6efccbe0b74b39ca6ee4.png",
     "static/media/mock2.png": "/Zidani-Fahed-portfolio/home/static/media/mock2.e8d5b3d8096f8ee04145.png",
@@ -12,10 +12,10 @@
     "static/media/mock3.png": "/Zidani-Fahed-portfolio/home/static/media/mock3.ecc51d8672f675b16e35.png",
     "index.html": "/Zidani-Fahed-portfolio/home/index.html",
     "main.f31807f5.css.map": "/Zidani-Fahed-portfolio/home/static/css/main.f31807f5.css.map",
-    "main.b6a487f7.js.map": "/Zidani-Fahed-portfolio/home/static/js/main.b6a487f7.js.map"
+    "main.f60c1631.js.map": "/Zidani-Fahed-portfolio/home/static/js/main.f60c1631.js.map"
   },
   "entrypoints": [
     "static/css/main.f31807f5.css",
-    "static/js/main.b6a487f7.js"
+    "static/js/main.f60c1631.js"
   ]
 }
